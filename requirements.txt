@@ -1,0 +1,13 @@
+setuptools>=41.0.0
+cloudpickle
+Flask
+gql
+gunicorn
+tensorflow==1.15.4
+tensorflow_probability==0.8
+gym
+rlgraph
+matplotlib
+numpy
+nltk
+pytz
